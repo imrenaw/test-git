@@ -1,0 +1,30 @@
+body {
+    background-color: lightgray;
+}
+
+#box {
+  width: 200px;
+  height: 100px;
+  background-color: lightblue;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  font-size: 20px;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 200px;
+  max-width: 300px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
